@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bookmarker</string>
+    <string name="service_name">Bookmarker</string>
+    <string name="service_description">Automatically clicks buttons in a Chrome Custom Tab to bookmark the currently opened website.</string>
+</resources>
